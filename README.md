@@ -8,3 +8,6 @@ I annotated the data with LabelImg (https://github.com/tzutalin/labelImg) .(It i
 Xml_to_csv.py helps convert XML rectangle data in CSV and then it possible to process these data using pandas.
 
 Sand_detection.ipynb contains notebook, which wrtiten in Google Colab (This allows you to use the free GPU that Google provides).I've used torchvision’s FasterRCNN with a resnet50 backbone.
+
+![11](https://user-images.githubusercontent.com/60327928/106509038-20c17a00-64de-11eb-863f-239617547188.png)
+
